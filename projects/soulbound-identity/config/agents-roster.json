@@ -40,10 +40,10 @@
         "role": "standalone"
       },
       {
-        "name": "David Agent",
+        "name": "User Agent",
         "slug": "david-agent",
         "previousName": null,
-        "description": "Public-facing David clone. Trained on historical emails and public knowledge to represent the user's voice, tone, and perspective in public discussions.",
+        "description": "Public-facing user clone. Trained on historical emails and public knowledge to represent the user's voice, tone, and perspective in public discussions.",
         "role": "standalone",
         "trainingStatus": "NOT_STARTED",
         "trainingTarget": "March 2026",
